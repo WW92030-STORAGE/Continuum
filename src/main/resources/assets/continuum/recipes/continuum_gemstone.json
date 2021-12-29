@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "continuum:continuum_block"
+    }
+  ],
+  "result": {
+    "item": "continuum:continuum_gemstone",
+    "count": 9
+  }
+}

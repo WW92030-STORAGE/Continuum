@@ -1,0 +1,16 @@
+[
+{
+  "modid": "continuum",
+  "name": "CONTINUUM",
+  "description": "Random item generator, based on Aether II (1.7.10)'s Continuum Orb item.",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NOTASMR"],
+  "credits": "NOTASMR",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

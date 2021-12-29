@@ -1,0 +1,10 @@
+//Items
+item.continuum_gemstone.name=Continuum Gemstone
+item.continuum_iterator.name=Continuum Iterator (DEBUG ITEM ONLY)
+item.housing_query.name=Housing Query
+
+//Blocks
+tile.continuum_block.name=Continuum Block
+
+//Entities
+entity.darkness.name=Darkness [NPC]

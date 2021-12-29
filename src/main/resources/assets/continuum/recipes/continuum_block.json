@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "continuum:continuum_gemstone"
+    }
+  },
+  "result": {
+    "item": "continuum:continuum_block",
+    "count": 1
+  }
+}
