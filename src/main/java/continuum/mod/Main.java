@@ -36,5 +36,6 @@ public class Main
 	
 	@EventHandler
 	public static void postInit(FMLPostInitializationEvent event) {
+		BlockDispenser.DISPENSE_BEHAVIOR_REGISTRY.putObject(ItemInit.CONTINUUM, new DispensedItem());
 	}
 }
