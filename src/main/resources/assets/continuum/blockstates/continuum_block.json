@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "continuum:block/continuum_block" }
+  }
+}
